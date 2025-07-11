@@ -46,6 +46,7 @@ The project uses two datasets from the UCI Machine Learning Repository:
 **Combined Dataset**: 6,497 wine samples total
 
 ## 📁 Project Structure
+`
 ├── wine+quality/ 
 │ ├── winequality-red.csv # Red wine dataset 
 │ ├── winequality-white.csv # White wine dataset 
@@ -53,7 +54,7 @@ The project uses two datasets from the UCI Machine Learning Repository:
 ├── Rapport Etude Préliminaire - Projet AD 2023 - Adam Ouzegdouh - Kamil MAZAN.ipynb 
 ├── Rapport du Projet d'Analyse de Données - Analyse de la qualité des vins - Adam Ouzegdouh - Kamil MAZAN.pdf 
 └── Projet_FIPA_AD.pdf
-
+`
 ## 🔍 Key Analyses
 
 ### 1. Exploratory Data Analysis
