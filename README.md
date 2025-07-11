@@ -55,7 +55,6 @@ The project uses two datasets from the UCI Machine Learning Repository:
 ├── Rapport du Projet d'Analyse de Données - Analyse de la qualité des vins - Adam Ouzegdouh - Kamil MAZAN.pdf 
 └── Projet_FIPA_AD.pdf
 ```
-
 ## 🔍 Key Analyses
 
 ### 1. Exploratory Data Analysis
